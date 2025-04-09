@@ -75,7 +75,7 @@ The project consists of several key components:
 pip install numpy matplotlib seaborn
 ```
 
-Or open and run `apex_agent/simulation.ipynb` in Jupyter Notebook.
+Open and run `apex_agent/simulation.ipynb` in Jupyter Notebook.
 
 ## Key Concepts Illustrated
 
